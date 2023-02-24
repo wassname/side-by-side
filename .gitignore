@@ -2,3 +2,6 @@
 /build-min
 /node_modules
 side-by-side.zip
+.ftppass
+.vscode/settings.json
+sftpCache.json

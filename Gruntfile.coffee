@@ -240,21 +240,39 @@ module.exports = (grunt) ->
 		options: { compress: false }
 	}]])
 
+	grunt.config 'sftp-deploy', add([['build', {
+		auth: {
+			host: 'ssh.phx.nearlyfreespeech.net',
+			port: 22,
+			authKey: 'key1'
+			},
+		cache: 'sftpCache.json',
+		src: './build-min/',
+		dest: '/home/public/sbs',
+		# exclusions: ['/path/to/source/folder/**/.DS_Store', '/path/to/source/folder/**/Thumbs.db', 'dist/tmp'],
+		serverSep: '/',
+		localSep: '/',
+		concurrency: 4,
+		progress: true
+	}]])
+
 	# Load tasks
 	grunt.loadNpmTasks('grunt-contrib-coffee');
 	grunt.loadNpmTasks('grunt-contrib-connect');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	grunt.loadNpmTasks('grunt-contrib-jade');
-	grunt.loadNpmTasks('grunt-contrib-qunit');
+	# grunt.loadNpmTasks('grunt-contrib-qunit');
 	grunt.loadNpmTasks('grunt-contrib-stylus');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-watch');
+	grunt.loadNpmTasks('grunt-sftp-deploy');
 
 	# Register tasks
 	grunt.registerTask 'default', [ 'coffee:main', 'copy:main', 'copy:fonts', 'jade:main', 'stylus:main' ]
 	grunt.registerTask 'min', [ 'jade:min', 'copy:min', 'copy:min_readme', 'copy:min_fonts', 'uglify:min', 'cssmin:min' ]
-	grunt.registerTask 'test', [ 'default', 'connect:main', 'qunit' ]
+	grunt.registerTask 'upload', ['min',  'sftp-deploy']
+	# grunt.registerTask 'test', [ 'default', 'connect:main', 'qunit' ]
 
 	grunt.registerTask 'serve', () ->
 		grunt.task.run 'default'
