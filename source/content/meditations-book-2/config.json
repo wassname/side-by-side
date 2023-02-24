@@ -1,0 +1,24 @@
+{
+    "title": "Meditations book 2 – translation comparison",
+    "description": "Tell yourself: I shall meet people who are officious, ungrateful, abusive, treacherous, malicious, and selfish.",
+    "heading": "Translator",
+    "display": {
+        "Code": [
+            "gl",
+            "gh",
+            "rw"
+        ]
+    },
+    "files": [
+        "1993-george-long.md",
+        "2003-gregory-hays.md",
+        "2021-robin-waterfield.md"
+    ],
+    "metaKeys": [
+        "Title",
+        "Author",
+        "Translator",
+        "Date",
+        "Source"
+    ]
+}
