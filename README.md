@@ -29,12 +29,12 @@ Clone the project, go to project folder, and install dependencies:
 
 	node_modules/.bin/grunt serve
 
-Point your browser at http://0.0.0.0:8000/base:tests.the_raven/
+Point your browser at http://0.0.0.0:8000/base:tests.enchiridion/
 
 ### Tests
 
 If you have the grunt dev server running, point your browser at
-http://0.0.0.0:8000/tests.html. Otherwise, run tests with `npm test`.
+http://0.0.0.0:8000/tests.html. ~~Otherwise, run tests with `npm test`.~~
 
 ### Package/release
 

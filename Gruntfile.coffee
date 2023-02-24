@@ -89,7 +89,7 @@ module.exports = (grunt) ->
 	watchconfigs = {
 		main: {
 			copy: {
-				files: [ 'source/.htaccess', 'source/tests/the_raven/*' ]
+				files: [ 'source/.htaccess', 'source/tests/the_raven/*', 'source/content/**/*' ]
 				tasks: 'copy:main'
 			}
 			jade: {
@@ -107,7 +107,7 @@ module.exports = (grunt) ->
 		}
 		min: {
 			copy_min: {
-				files: [ 'source/.htaccess', 'source/tests/the_raven/*' ]
+				files: [ 'source/.htaccess', 'source/tests/the_raven/*', 'source/content/**/*'  ]
 				tasks: 'copy:min'
 			}
 			jade_min: {
@@ -175,7 +175,7 @@ module.exports = (grunt) ->
 
 	grunt.config 'copy', add([
 		[ 'main', {
-			src: [ '.htaccess', 'tests/the_raven/*' ]
+			src: [ '.htaccess', 'tests/the_raven/*', 'content/**/*' ]
 			options: {
 				processContent: (content) ->
 					grunt.template.process content, { data: {
@@ -187,7 +187,7 @@ module.exports = (grunt) ->
 			src: ['fonts/*']
 		}]
 		[ 'min', {
-			src: [ '.htaccess', 'tests/the_raven/*' ]
+			src: [ '.htaccess', 'tests/the_raven/*', 'content/**/*' ]
 			options: {
 				processContent: (content) ->
 					grunt.template.process content, { data: {
