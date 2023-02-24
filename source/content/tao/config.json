@@ -1,0 +1,21 @@
+{
+	"title": "Tao Te Ching – translation comparison",
+	"description": "The tao that can be told is not the eternal tao. The name that can be named is not the eternal name.",
+	"heading": "Translator",
+	"display": { "Code": ["gff", "jhmd", "jc", "rh", "rp"] },
+	"files": [
+		"1972-gia-fu-feng.md",
+		"1988-stephen-mitchell.md",
+		"1990-victor-h-mair.md",
+		"1993-addis-lombardo.md",
+		"1994-derek-lin.md",
+		"1996-j-h-mcdonald.md",
+		"2000-jim-clatfelter.md",
+		"2002-david-hinton.md",
+		"2004-ron-hogan.md",
+		"2005-agnieszka-solska.md",
+		"2009-red-pine.md",
+		"2010-ames-and-hall.md"
+	],
+	"metaKeys": [ "Translator", "Year", "Source" ]
+}
