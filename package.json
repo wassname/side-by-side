@@ -16,6 +16,7 @@
 		"grunt-contrib-stylus": "0.20.x",
 		"grunt-contrib-uglify": "0.6.x",
 		"grunt-contrib-watch": "0.6.x",
+		"grunt-sftp-deploy": "^0.2.5",
 		"lodash": "2.4.x",
 		"marked": "0.3.2"
 	},
@@ -23,8 +24,11 @@
 		"graceful-fs": "^4.2.10"
 	},
 	"scripts": {
-		"test": "node_modules/.bin/grunt test",
-		"postinstall": "node_modules/.bin/bower install"
+		"postinstall": "node_modules/.bin/bower install",
+		"serve": "node_modules/.bin/grunt serve",
+		"upload": "node_modules/.bin/grunt upload"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+	}
 }
