@@ -6,7 +6,7 @@ angular.module("sideBySide").factory "fetch",
 	# @param base [String] Path to config file directory
 	# @return [Object] Promises and config data
 	(base) ->
-		file = base + 'config.json'
+		file = window.location.href.split('#')[0].replace(/\/$/, '') + '/config.json'
 		$http.get(file).then (config) ->
 			if typeof config.data != "object"
 				throw "Config file " + file + " doesn't contain data."
@@ -15,7 +15,7 @@ angular.module("sideBySide").factory "fetch",
 				throw "Config doesn't contain a list of files."
 
 			promises = config.data.files.map (poem) ->
-				$http.get(base + poem).then (response) ->
+				$http.get(window.location.href.split('#')[0].replace(/\/$/, '') + '/' + poem).then (response) ->
 					readerFactory(poem) response.data
 
 			{
