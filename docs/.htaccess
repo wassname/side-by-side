@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /sbs/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule .* index.html [PT]
