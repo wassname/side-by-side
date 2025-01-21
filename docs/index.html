@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html ng-app="sideBySide" ng-controller="AppController">
+  <head>
+    <base href="/sbs/">
+    <title ng-bind="title()">Side By Side viewer</title>
+    <meta charset="utf-8">
+    <meta name="description" content="{{ description() }}">
+    <script>html5Mode=false;</script>
+    <link rel="stylesheet" type="text/css" href="styles/all_min.css">
+    <script src="scripts/all_min.js"></script>
+  </head>
+  <body>
+    <noscript>Well, terribly sorry, but you do need to have Javascript enabled for this to work.</noscript>
+    <!-- top menu-->
+    <div class="pure-menu pure-menu-open pure-menu-horizontal menu-main">
+      <ul>
+        <li ng-repeat="link in links"><a href="" ng-click="display(link.display)" ng-bind-html="link.text"></a></li>
+        <li><a href="" ng-click="flipPick()">
+            <svg class="icon">
+              <use xlink:href="/fonts/icons.svg#icon-menu"></use>
+            </svg><span>Compare translations</span></a></li>
+        <li><a href="" ng-click="showPage('about')">
+            <svg class="icon">
+              <use xlink:href="/fonts/icons.svg#icon-star"></use>
+            </svg><span>About</span></a></li>
+        <li><a href="content/tao">Tao</a></li>
+        <li><a href="content/enchiridion">Enchiridion</a></li>
+        <li><a href="content/meditations-book-2">Meditations book 2</a></li>
+      </ul>
+    </div>
+    <div ng-controller="ComparisonController" class="cols-{{columns}}">
+      <div ng-click="flipPick()" class="pure-menu pure-menu-open pure-menu-horizontal menu-verses">
+        <div class="pure-g-r">
+          <div ng-repeat="heading in headings" class="version">
+            <div class="version-padded">
+              <div class="version-menu">
+                <svg ng-show="!pick" class="icon arrow">
+                  <use xlink:href="/fonts/icons.svg#icon-expand-less"></use>
+                </svg>
+                <svg ng-show="pick" class="icon arrow">
+                  <use xlink:href="/fonts/icons.svg#icon-expand-more"></use>
+                </svg>
+                <div ng-bind-html="heading" class="text"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div ng-show="pick" class="pick">
+        <div class="pick-in">
+          <div id="too-few" ng-hide="! tooFew">There is no escape.</div>
+          <div id="too-many" ng-hide="! tooMany">You can only compare five translations at the moment. Choose wisely.</div>
+          <table>
+            <tr>
+              <th ng-repeat="attribute in metaKeys" ng-bind-html="attribute"></th>
+            </tr>
+            <tr ng-repeat="poem in all" ng-class="{disabled: !poem.meta.Active}" ng-click="switchActive(poem)" class="switch">
+              <td ng-repeat="attribute in metaKeys" ng-bind-html="poem.meta[attribute]"></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <!-- verses-->
+      <div id="content">
+        <div du-scrollspy ng-href="#section-meta" id="section-meta" class="pure-g-r">
+          <div ng-repeat="poemmeta in meta" class="version">
+            <div class="version-padded">
+              <div class="version-container version-container-top">
+                <p>
+                  <table>
+                    <tr ng-repeat="key in metaKeys">
+                      <td ng-bind-html="key" class="key"></td>
+                      <td ng-bind-html="poemmeta[key]"></td>
+                    </tr>
+                  </table>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div du-scrollspy ng-href="#section-{{$index + 1}}" offset="100px" ng-repeat="verse in verses" id="section-{{$index + 1}}" class="pure-g-r">
+          <div ng-repeat="version in verse" class="version">
+            <div class="version-padded">
+              <div class="version-container">
+                <div ng-hide="version.section == ''" ng-bind-html="version.section" class="section"></div>
+                <div ng-bind-html="version.text" class="text"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
