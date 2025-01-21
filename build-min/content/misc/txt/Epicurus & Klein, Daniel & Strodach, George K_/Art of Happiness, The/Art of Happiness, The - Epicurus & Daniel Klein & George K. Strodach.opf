@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dfb92bf-baac-4587-8832-fb7252b3ffe6</dc:identifier>
+        <dc:title>The Art of Happiness</dc:title>
+        <dc:creator opf:file-as="Epicurus &amp; Klein, Daniel &amp; Strodach, George K." opf:role="aut">Epicurus</dc:creator>
+        <dc:creator opf:file-as="Epicurus &amp; Klein, Daniel &amp; Strodach, George K." opf:role="aut">Daniel Klein</dc:creator>
+        <dc:creator opf:file-as="Epicurus &amp; Klein, Daniel &amp; Strodach, George K." opf:role="aut">George K. Strodach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align: left;"&gt;New to Penguin Classics and the perfect companion volume to bestselling author Daniel Klein's new book, &lt;strong&gt;Travels with Epicurus&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;The teachings of Epicurus—about life and death, religion and science, physical sensation, happiness, morality, and friendship—attracted legions of adherents throughout the ancient Mediterranean world and deeply influenced later European thought. Though Epicurus faced hostile opposition for centuries after his death, he counts among his many admirers Thomas Hobbes, Thomas Jefferson, Karl Marx, and Isaac Newton. This volume includes all of his extant writings—his letters, doctrines, and Vatican sayings—alongside parallel passages from the greatest exponent of his philosophy, Lucretius, extracts from Diogenes Laertius' Life of Epicurus, a lucid introductory essay about Epicurean philosophy, and a foreword by Daniel Klein, author of Travels with Epicurus and coauthor of the New York Times bestseller Plato and a Platypus Walk into a Bar. &lt;br&gt;&lt;/p&gt;&lt;h3 style="text-align: left;"&gt;About the Author&lt;/h3&gt;&lt;p style="text-align: left;"&gt;&lt;strong&gt;Epicurus&lt;/strong&gt; (341–271 BC) founded one of antiquity's most influential philosophical schools, which focused on the pursuit of happiness. Born on the Greek island of Samos, he operated the Garden, devoted to philosophy and communal living, outside of Athens.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;strong&gt;George K. Strodach &lt;/strong&gt;(1905–1971) taught at Lafayette College in Easton, Pennsylvania—first in the language department and then in the philosophy department—for more than thirty-five years.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;strong&gt;Daniel Klein&lt;/strong&gt; is the author of Travels with Epicurus and coauthor of the New York Times bestseller Plato and a Platypus Walk into a Bar. He lives in Western Massachusetts.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Classics</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008EKM8B2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0143107216</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B008EKM8B2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ancient Greece</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Epicurus&quot;: &quot;&quot;, &quot;Daniel Klein&quot;: &quot;&quot;, &quot;George K. Strodach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-01-07T09:15:18+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Happiness, The"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Art of Happiness, The - Epicurus &amp; Daniel Klein &amp; George K. Strodach.jpg"/>
+    </guide>
+</package>

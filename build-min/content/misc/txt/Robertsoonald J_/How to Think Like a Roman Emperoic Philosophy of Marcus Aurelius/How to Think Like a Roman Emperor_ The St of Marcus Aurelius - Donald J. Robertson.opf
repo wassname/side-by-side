@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">275eef7f-b4a0-48d6-be06-6232f308a4fa</dc:identifier>
+        <dc:title>How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius</dc:title>
+        <dc:creator opf:file-as="Robertson, Donald J." opf:role="aut">Donald J. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;"This book is a wonderful introduction to one of history's greatest figures: Marcus Aurelius. His life and this book are a clear guide for those facing adversity, seeking tranquility and pursuing excellence." —Ryan Holiday, bestselling author of &lt;em&gt;The Obstacle is the Way&lt;/em&gt; and *The Daily Stoic&lt;/strong&gt;*  &lt;/p&gt;&lt;p&gt;&lt;em&gt;The life-changing principles of Stoicism taught through the story of its most famous proponent.&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;&lt;em&gt;&lt;br&gt;
+Roman emperor Marcus Aurelius was the final famous Stoic philosopher of the ancient world. &lt;/em&gt;The Meditations&lt;/em&gt;, his personal journal, survives to this day as one of the most loved self-help and spiritual classics of all time. In &lt;em&gt;How to Think Like a Roman Emperor&lt;/em&gt;, cognitive psychotherapist Donald Robertson weaves the life and philosophy of Marcus Aurelius together seamlessly to provide a compelling modern-day guide to the Stoic wisdom followed by countless individuals throughout the centuries as a path to achieving greater fulfillment and emotional resilience.  &lt;/p&gt;&lt;p&gt;&lt;em&gt;How to Think Like a Roman Emperor&lt;/em&gt; takes readers on a transformative journey along with Marcus, following his progress from a young noble at the court of Hadrian—taken under the wing of some of the finest philosophers of his day—through to his reign as emperor of Rome at the height of its power. Robertson shows how Marcus used philosophical doctrines and therapeutic practices to build emotional resilience and endure tremendous adversity, and guides readers through applying the same methods to their own lives.  &lt;/p&gt;&lt;p&gt;
+
+
+&lt;/p&gt;&lt;p&gt;Combining remarkable stories from Marcus’s life with insights from modern psychology and the enduring wisdom of his philosophy, &lt;em&gt;How to Think Like a Roman Emperor&lt;/em&gt; puts a human face on Stoicism and offers a timeless and essential guide to handling the ethical and psychological challenges we face today.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">39863499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Donald J. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-08-14T05:36:41+00:00"/>
+        <meta name="calibre:title_sort" content="How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="How to Think Like a Roman Emperor_ The St of Marcus Aurelius - Donald J. Robertson.jpg"/>
+    </guide>
+</package>

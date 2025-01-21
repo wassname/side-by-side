@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b15c8b5-10c4-4507-8b9f-3f160c5079bb</dc:identifier>
+        <dc:title>Courage Under Fire</dc:title>
+        <dc:creator opf:file-as="Sword, Wiley" opf:role="aut">Wiley Sword</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-16T16:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&amp;#8220;If it is necessary that I should fall on the battlefield for . . .&amp;#160; my courage does not halt or falter&amp;#8221; &amp;#8211; Major Sullivan Ballou, 1861, prior to the Battle of Bull Run&lt;/P&gt;&lt;P&gt;In &lt;I&gt;Courage Under Fire&lt;/I&gt;, award-winning historian Wiley Sword captures the fervor of a nation at war with itself; a war that pitted brother against brother. Through the immediacy of diaries and letters written not only on the battlefields and in camps but also on the deathbeds of soldiers from both the North and South, Sword lays bare the complexities and depth of a soldier&amp;#8217;s mind in coming to grips with life and death &amp;#8211; even while his country, and often his family, is mercilessly ripped apart.&lt;I&gt; &lt;/I&gt;&lt;/P&gt;&lt;P&gt;From wives and mothers to the highest military figures, all strived toward often worthy but difficult objectives, while seeking to suffer as little as possible. Featured in this compelling study of men and women facing the severest stress of their lives are...</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781429994330</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Wiley Sword&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-27T05:03:07+00:00"/>
+        <meta name="calibre:title_sort" content="Courage Under Fire"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Courage Under Fire - Wiley Sword.jpg"/>
+    </guide>
+</package>

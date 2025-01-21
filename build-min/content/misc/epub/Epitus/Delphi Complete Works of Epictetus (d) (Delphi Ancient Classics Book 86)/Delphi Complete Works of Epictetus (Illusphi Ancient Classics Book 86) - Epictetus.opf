@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de11c557-8d61-479e-8eb0-fc6eb9fc8193</dc:identifier>
+        <dc:title>Delphi Complete Works of Epictetus (Illustrated) (Delphi Ancient Classics Book 86)</dc:title>
+        <dc:creator opf:file-as="Epictetus" opf:role="aut">Epictetus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-03T14:00:00+00:00</dc:date>
+        <dc:description>www.delphiclassics.com</dc:description>
+        <dc:publisher>Delphi Classics</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07B81HYWL</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ancient Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Epictetus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-26T12:48:09+00:00"/>
+        <meta name="calibre:title_sort" content="Delphi Complete Works of Epictetus (Illustrated) (Delphi Ancient Classics Book 86)"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Delphi Complete Works of Epictetus (Illusphi Ancient Classics Book 86) - Epictetus.jpg"/>
+    </guide>
+</package>

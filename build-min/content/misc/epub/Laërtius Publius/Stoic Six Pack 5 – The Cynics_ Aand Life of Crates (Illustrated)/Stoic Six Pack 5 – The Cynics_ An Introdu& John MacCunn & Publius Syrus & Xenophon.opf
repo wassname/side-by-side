@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c3df26c-865a-4bf1-9694-9973f64c5aee</dc:identifier>
+        <dc:title>Stoic Six Pack 5 – The Cynics: An Introduction to Cynic Philosophy, The Moral Sayings of Publius Syrus, Life of Antisthenes, The Symposium (Book IV), Life of Diogenes and Life of Crates (Illustrated)</dc:title>
+        <dc:creator opf:file-as="Laërtius, Diogenes &amp; MacCunn, John &amp; Syrus, Publius" opf:role="aut">Diogenes Laërtius</dc:creator>
+        <dc:creator opf:file-as="Laërtius, Diogenes &amp; MacCunn, John &amp; Syrus, Publius" opf:role="aut">John MacCunn</dc:creator>
+        <dc:creator opf:file-as="Laërtius, Diogenes &amp; MacCunn, John &amp; Syrus, Publius" opf:role="aut">Publius Syrus</dc:creator>
+        <dc:creator opf:file-as="Laërtius, Diogenes &amp; MacCunn, John &amp; Syrus, Publius" opf:role="aut">Xenophon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-27T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B014MWH3QU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Diogenes Laërtius&quot;: &quot;&quot;, &quot;John MacCunn&quot;: &quot;&quot;, &quot;Publius Syrus&quot;: &quot;&quot;, &quot;Xenophon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-07T12:02:17+00:00"/>
+        <meta name="calibre:title_sort" content="Stoic Six Pack 5 – The Cynics: An Introduction to Cynic Philosophy, The Moral Sayings of Publius Syrus, Life of Antisthenes, The Symposium (Book IV), Life of Diogenes and Life of Crates (Illustrated)"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic six pack&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Stoic Six Pack 5 – The Cynics_ An Introdu&amp; John MacCunn &amp; Publius Syrus &amp; Xenophon.jpg"/>
+    </guide>
+</package>

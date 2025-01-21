@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fdcc255-72f5-431e-8f06-24e0c784ef70</dc:identifier>
+        <dc:title>Stoic Six Pack 7 – The Sophists: Memoirs of Socrates, Euthydemus, Stoic Self-control, Gorgias, Protagoras and Biographies (Illustrated)</dc:title>
+        <dc:creator opf:file-as="Hyde, William De Witt &amp; Sidgwick, Henry &amp; Smith, William" opf:role="aut">William De Witt Hyde</dc:creator>
+        <dc:creator opf:file-as="Hyde, William De Witt &amp; Sidgwick, Henry &amp; Smith, William" opf:role="aut">Plato</dc:creator>
+        <dc:creator opf:file-as="Hyde, William De Witt &amp; Sidgwick, Henry &amp; Smith, William" opf:role="aut">Henry Sidgwick</dc:creator>
+        <dc:creator opf:file-as="Hyde, William De Witt &amp; Sidgwick, Henry &amp; Smith, William" opf:role="aut">William Smith</dc:creator>
+        <dc:creator opf:file-as="Hyde, William De Witt &amp; Sidgwick, Henry &amp; Smith, William" opf:role="aut">Xenophon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-03T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;em&gt;&amp;ldquo;True knowledge exists in knowing that you know nothing.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;-&amp;nbsp;&lt;/em&gt;Socrates.&lt;/p&gt;&lt;p&gt;Two centuries before the Stoics lived &lt;strong&gt;The Sophists&lt;/strong&gt;, star philosophers who roamed Athens during the fifth century B.C. commanding large fees for speaking and private lessons. They offered practical education, speculation on the nature of the universe and knowledge in the art of life and politics. The most famous were Protagoras, Gorgias, Prodicus, Hippias, Thrasymachus, Callicles, Lycophron, Antiphon and Cratylus. &lt;strong&gt;&lt;em&gt;Stoic Six Pack 7 &amp;ndash; The Sophists&lt;/em&gt;&lt;/strong&gt; brings key primary and secondary sources together in one volume for a fully rounded understanding of this early, often misunderstood philosophical movement:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Sophists&lt;/em&gt;&lt;/strong&gt; by Henry Sidgwick&lt;/p&gt;&lt;p&gt;Dialogues&lt;em&gt; &lt;strong&gt;Protagoras&lt;/strong&gt;&lt;/em&gt; and &lt;strong&gt;&lt;em&gt;Gorgias&lt;/em&gt;&lt;/strong&gt; by Plato&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Memoirs of Socrates&lt;/em&gt;&lt;/strong&gt; by Xenophon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Stoic Self-control&lt;/em&gt;&lt;/strong&gt; by William De Witt Hyde&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Sophists&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; &amp;ndash; Biographical Sketches&lt;/em&gt; by William Smith&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Euthydemus&lt;/em&gt;&lt;/strong&gt; by Plato&lt;/p&gt;&lt;p&gt;Includes&amp;nbsp;Sophist&amp;nbsp;image gallery.&amp;nbsp;&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01BICKSJG</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greek Stoics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William De Witt Hyde&quot;: &quot;&quot;, &quot;Plato&quot;: &quot;&quot;, &quot;Henry Sidgwick&quot;: &quot;&quot;, &quot;William Smith&quot;: &quot;&quot;, &quot;Xenophon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-07T12:02:31+00:00"/>
+        <meta name="calibre:title_sort" content="Stoic Six Pack 7 – The Sophists: Memoirs of Socrates, Euthydemus, Stoic Self-control, Gorgias, Protagoras and Biographies (Illustrated)"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic six pack&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Stoic Six Pack 7 – The Sophists_ Memoirs of&amp; Henry Sidgwick &amp; William Smith &amp; Xenophon.jpg"/>
+    </guide>
+</package>

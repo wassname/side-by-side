@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6149cbbf-e85a-43b1-b073-ba4256cfa008</dc:identifier>
+        <dc:title>A Guide to the Good Life: The Ancient Art of Stoic Joy</dc:title>
+        <dc:creator opf:file-as="Irvine, William Braxton" opf:role="aut">William Braxton Irvine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;One of the great fears many of us face is that despite all our effort and striving, we will discover at the end that we have wasted our life. In A Guide to the Good Life, William B. Irvine plumbs the wisdom of Stoic philosophy, one of the most popular and successful schools of thought in ancient Rome, and shows how its insight and advice are still remarkably applicable to modern lives. In A Guide to the Good Life, Irvine offers a refreshing presentation of Stoicism, showing how this ancient philosophy can still direct us toward a better life. Using the psychological insights and the practical techniques of the Stoics, Irvine offers a roadmap for anyone seeking to avoid the feelings of chronic dissatisfaction that plague so many of us. Irvine looks at various Stoic techniques for attaining tranquility and shows how to put these techniques to work in our own life. As he does so, he describes his own experiences practicing Stoicism and offers valuable first-hand advice for anyone wishing to live better by following in the footsteps of these ancient philosophers. Readers learn how to minimize worry, how to let go of the past and focus our efforts on the things we can control, and how to deal with insults, grief, old age, and the distracting temptations of fame and fortune. We learn from Marcus Aurelius the importance of prizing only things of true value, and from Epictetus we learn how to be more content with what we have. Finally, A Guide to the Good Life shows readers how to become thoughtful observers of their own life. If we watch ourselves as we go about our daily business and later reflect on what we saw, we can better identify the sources of distress and eventually avoid that pain in our life. By doing this, the Stoics thought, we can hope to attain a truly joyful life.&lt;/p&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780195374612</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yQ59JV_9AfIC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stoics</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Self-Actualization (Psychology)</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Happiness</dc:subject>
+        <dc:subject>Inspirational</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Ethics &amp; Moral Philosophy</dc:subject>
+        <dc:subject>Ancient &amp; Classical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Braxton Irvine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-08-14T05:36:42+00:00"/>
+        <meta name="calibre:title_sort" content="Guide to the Good Life: The Ancient Art of Stoic Joy, A"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Guide to the Good Life_ The Ancient Art of Stoic Joy, A - William Braxton Irvine.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e475e02-196e-4081-ad8b-f86449ce9f51</dc:identifier>
+        <dc:title>Delphi Complete Works of Cicero</dc:title>
+        <dc:creator opf:file-as="Cicero" opf:role="aut">Cicero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-09T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Cicero's Rome's greatest orator, Marcus Tullius Cicero was a renowned philosopher and political theorist whose influence upon the history of European literature has been immense. For the first time in digital publishing history, readers can now enjoy Cicero's complete works in English and Latin on their eReaders, with beautiful illustrations, informative introductions and the usual Delphi bonus material. (Version 1)&lt;/b&gt;&lt;li&gt;&lt;b&gt;Beautifully illustrated with images relating to Cicero's life and works&lt;p&gt;&lt;li&gt;Features the complete works of Cicero, in both English translation and the original Latin&lt;p&gt;&lt;li&gt;Concise introductions to the orations, treatises and other works&lt;p&gt;&lt;li&gt;The complete speeches, with rare fragments, arranged in precise chronological order&lt;p&gt;&lt;li&gt;Includes many translations previously appearing in Loeb Classical Library editions of Cicero's works&lt;p&gt;&lt;li&gt;Excellent formatting of the texts&lt;p&gt;&lt;li&gt;Easily locate the orations or treatises you want to read with individual...</dc:description>
+        <dc:publisher>Delphi Classics</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Cicero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-06-26T12:48:11+00:00"/>
+        <meta name="calibre:title_sort" content="Delphi Complete Works of Cicero"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: &quot;stoic&quot;, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Delphi Complete Works of Cicero - Cicero.jpg"/>
+    </guide>
+</package>

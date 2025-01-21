@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a69f951-a99b-44c5-a3e6-158448dbb142</dc:identifier>
+        <dc:title>Lives of the Stoics: The Art of Living From Zeno to Marcus Aurelius</dc:title>
+        <dc:creator opf:file-as="Holiday, Ryan &amp; Hanselman, Stephen" opf:role="aut">Ryan Holiday</dc:creator>
+        <dc:creator opf:file-as="Holiday, Ryan &amp; Hanselman, Stephen" opf:role="aut">Stephen Hanselman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;From bestselling authors of &lt;em&gt;The Daily Stoic&lt;/em&gt; - an inspiring guide to the lives of Stoicism's greatest practitioners&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;'At a time when public nobility is hard to come by, this is a good reminder of the power of ethical leadership.' - &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Kirkus Reviews&lt;/span&gt;&lt;br&gt;&lt;strong&gt;'In story after page-turning story, &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Lives of the Stoics&lt;/span&gt;&lt;strong&gt; brings ancient philosophers to life.' - David Epstein, bestselling author of Range&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;'Wonderful' - Chris Bosh, two-time NBA Champion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For millennia, Stoicism has been the ancient philosophy that attracts those who seek greatness, from athletes to politicians and everyone in between. And no wonder: its embrace of self-mastery, virtue and indifference to that which we cannot control has much to offer those grappling with today's chaotic world. But who were the Stoics?&lt;/p&gt;
+&lt;p&gt;In this book, Ryan Holiday and Stephen Hanselman offer a fresh approach to understanding Stoicism through the lives of the people who practiced it. Through short biographies of all the famous, and lesser-known, Stoics, this book will show what it means to live stoically, and reveal the lessons to be learned from their struggles and successes. The result is a treasure trove of insights for anyone in search of living a good life.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Profile</dc:publisher>
+        <dc:identifier opf:scheme="KOBO">lives-of-the-stoics-2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781782835509</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ryan Holiday&quot;: &quot;&quot;, &quot;Stephen Hanselman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-01-07T09:07:18+00:00"/>
+        <meta name="calibre:title_sort" content="Lives of the Stoics: The Art of Living From Zeno to Marcus Aurelius"/>
+        <meta name="calibre:user_metadata:#collection" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;collection&quot;, &quot;search_terms&quot;: [&quot;#collection&quot;], &quot;label&quot;: &quot;collection&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;use_decorations&quot;: 0}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Lives of the Stoics_ The Art of Living Frrelius - Ryan Holiday &amp; Stephen Hanselman.jpg"/>
+    </guide>
+</package>
